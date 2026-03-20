@@ -16,7 +16,7 @@ Skills: HTML / CSS3 / JavaScript/ C++
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nazib-07)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazib-07)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazib-07&show_icons=true)  
 
