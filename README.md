@@ -15,7 +15,7 @@ Skills: HTML / CSS / Javascript / C++
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazib-07)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight_icons=true) 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Nazib-07)  
 
