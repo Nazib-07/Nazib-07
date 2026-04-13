@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nazib</h1>
 <h3 align="center">Web Development | Front-end-development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazib-07&label=Profile%20views&color=0e75b6&style=flat" alt="nazib-07" /> </p>
-
 - 🔭 I’m currently working on Shikho **Drawer**
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, React**
