@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nazib-07](https://github.com/Nazib-07)
+- 👨‍💻 All of my projects are available at [https://github.com/nazib-07](https://github.com/nazib-07)
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
