@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazib</h1>
 <h3 align="center">Web Development | Front-end-development</h3>
 <h1>💫 About Me:</h1><br>
+<h4>I am an undergraduate student currently studying Information and Communication Engineering at the Bangladesh University of Professionals (BUP), Dhaka, Bangladesh.I have simple knowledge in multiple programming languages including Java, C, C++ and JavaScript along with practical experience in HTML and CSS. I am also highly passionate about Web Development, 2d Animation &amp; professional video editing. I continuously expanding my expertise in modern technologies.</h4> <br>
 🔭 I’m currently working on Shikho as a Drawer<br>👯 I’m looking to collaborate on github<br>🤝 I’m looking for help with<br>🌱 I’m currently learning HTML, CSS, JavaScript, React<br>💬 Ask me about JavaScript<br>⚡ Fun fact 2D animation
 
 
